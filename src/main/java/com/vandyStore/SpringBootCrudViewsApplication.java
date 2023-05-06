@@ -11,6 +11,6 @@ public class SpringBootCrudViewsApplication {
 	}
 
 
-	/**    url:  http://localhost:8080/products           **/
+	/**    url:     http://localhost:8080/products           **/
 
 }
